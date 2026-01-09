@@ -80,7 +80,7 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ### 1. Crecimiento Exponencial de la Generación Eólica
 
-![Evolución de la Generación Eólica](https://raw.githubusercontent.com/fabriciobagatto/analisis-energia-eolica-argentina/main/graficos/1.evolucion_generacion_eolica_argentina.png)
+![Evolución de la Generación Eólica](https://raw.githubusercontent.com/fabriciobagatto/analisis-energia-eolica-argentina/main/graficos/evolucion_generacion_eolica_argentina.png)
 
 ![Generación Anual y Crecimiento Interanual](graficos/2.generacion_eolica_anual_crecimiento_interanual.png)
 
