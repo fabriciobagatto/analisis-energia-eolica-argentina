@@ -75,6 +75,18 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 **Herramientas utilizadas:** Python 3.x, pandas, matplotlib, seaborn, numpy
 
+## Código y Reproducibilidad
+
+El análisis completo está documentado en un Jupyter Notebook que incluye:
+- Código Python comentado paso a paso
+- Visualizaciones interactivas
+- Explicaciones detalladas de cada etapa del análisis
+
+**[Acceder al Notebook de Análisis]([notebooks/analisis_eolica_argentina.ipynb](https://colab.research.google.com/drive/19ad6ssz_UR-VYsmxXWk-pS8OD8UmDvdW)**
+
+> **Nota:** GitHub renderiza los notebooks automáticamente, permitiendo visualizar el código y resultados sin necesidad de descargar el archivo.
+
+---
 ---
 
 ## Principales Hallazgos y Visualizaciones
