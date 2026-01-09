@@ -82,7 +82,7 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ![Evolución de la Generación Eólica](https://raw.githubusercontent.com/fabriciobagatto/analisis-energia-eolica-argentina/main/graficos/1.evolucion_generacion_eolica_argentina.png)
 
-![Generación Anual y Crecimiento Interanual](graficos/generacion_eolica_anual_crecimiento_interanual.png)
+![Generación Anual y Crecimiento Interanual](graficos/2.generacion_eolica_anual_crecimiento_interanual.png)
 
 **Insights clave:**
 - La generación anual creció de **~16 GWh en 2011** a más de **16.000 GWh en 2024** (incremento de más de 1000x)
