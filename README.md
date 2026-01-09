@@ -7,6 +7,7 @@ Este proyecto presenta un **análisis exploratorio de datos (EDA)** sobre la evo
 A través de técnicas de análisis de datos y visualizaciones, se examina el **crecimiento estructural de la matriz eólica nacional**, identificando patrones temporales, concentración territorial y desempeño comparativo entre provincias, regiones y centrales generadoras.
 
 El proyecto está orientado a **profesionales del sector energético, analistas de datos y tomadores de decisión** interesados en comprender la evolución de las energías renovables en Argentina.
+> **[Ver notebook completo con el análisis paso a paso]([notebooks/analisis_eolica_argentina.ipynb](https://colab.research.google.com/drive/19ad6ssz_UR-VYsmxXWk-pS8OD8UmDvdW)**
 
 ---
 
