@@ -80,9 +80,9 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ### 1. Crecimiento Exponencial de la Generación Eólica
 
-![Evolución de la Generación Eólica](https://raw.githubusercontent.com/fabriciobagatto/analisis-energia-eolica-argentina/main/graficos/evolucion_generacion_eolica_argentina.png)
+![Generación Anual y Crecimiento Interanual](grafcicos/evolucion_generacion_eolica_argentina.png)
 
-![Generación Anual y Crecimiento Interanual](graficos/2.generacion_eolica_anual_crecimiento_interanual.png)
+![Generación Anual y Crecimiento Interanual](grafcicos/generacion_eolica_anual_crecimiento_interanual.png)
 
 **Insights clave:**
 - La generación anual creció de **~16 GWh en 2011** a más de **16.000 GWh en 2024** (incremento de más de 1000x)
@@ -93,9 +93,9 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ### 2. Estacionalidad de la Producción
 
-![Estacionalidad de la Generación](graficos/estacionalidad_generacion_eolica_total.png)
+![Estacionalidad de la Generación](grafcicos/estacionalidad_generacion_eolica_total.png)
 
-![Patrón Estacional por Provincia](graficos/patron_estacional_por_provincia.png)
+![Patrón Estacional por Provincia](grafcicos/patron_estacional_por_provincia.png)
 
 **Insights clave:**
 - Patrón estacional moderado con **mayor generación en meses de invierno y primavera** (junio-agosto)
@@ -106,11 +106,11 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ### 3. Concentración Geográfica: Patagonia y Buenos Aires Lideran
 
-![Provincias con Mayor Generación](graficos/prov_mayor_generacion_eolica_acumulada.png)
+![Provincias con Mayor Generación](grafcicos/prov_mayor_generacion_eolica_acumulada.png)
 
-![Participación por Región](graficos/participacion_generacion_eolica_region.png)
+![Participación por Región](grafcicos/participacion_generacion_eolica_region.png)
 
-![Generación Acumulada por Región](graficos/generacion_acumulada_por_region.png)
+![Generación Acumulada por Región](grafcicos/generacion_acumulada_por_region.png)
 
 **Insights clave:**
 - **Chubut (38,8%)**, **Buenos Aires (36,8%)** y **Santa Cruz (8,8%)** concentran más del **84%** de la generación nacional
@@ -121,9 +121,9 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ### 4. Concentración de la Producción: Análisis de Pareto
 
-![Centrales con Mayor Generación](graficos/centrales_con_mayor_generacion_acumulada.png)
+![Centrales con Mayor Generación](grafcicos/centrales_con_mayor_generacion_acumulada.png)
 
-![Análisis de Pareto](graficos/analisis_pareto.png)
+![Análisis de Pareto](grafcicos/analisis_pareto.png)
 
 **Insights clave:**
 - El sistema cuenta con **71 centrales eólicas**
@@ -136,11 +136,11 @@ El análisis se desarrolló siguiendo un enfoque exploratorio estructurado:
 
 ### 5. Variabilidad Operativa y Distribución de la Generación
 
-![Evolución Comparativa](graficos/evolucion_comparativa.png)
+![Evolución Comparativa](grafcicos/evolucion_comparativa.png)
 
-![Variabilidad vs Producción Media](graficos/variabilidad_vs_produccionmedia.png)
+![Variabilidad vs Producción Media](grafcicos/variabilidad_vs_produccionmedia.png)
 
-![Distribución Generación Mensual](graficos/distribucion_generacion_mensual_por_central.png)
+![Distribución Generación Mensual](grafcicos/distribucion_generacion_mensual_por_central.png)
 
 **Insights clave:**
 - Coexisten centrales de **alta producción con baja variabilidad** (operación estable) y centrales con mayor volatilidad
